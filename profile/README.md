@@ -10,7 +10,7 @@
 
 [![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)](https://apps.apple.com/kr/app/pickly/id6450514861) [![Play Store](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.ww8007.pickly)
 
-[![서비스_이용_가이드](http://img.shields.io/badge/-서비스_이용_가이드-81B441?style=flat&logo=Pinboard&logoColor=white&link=https://github.com/pickly-team/pickly-backend/wiki)](https://github.com/pickly-team/pickly-backend/wiki) [![Storybook](http://img.shields.io/badge/Storybook-ff4685?style=flat&logo=Storybook&logoColor=white&link=https://64041bd03de4f07060a931b9-emnknzovqf.chromatic.com/?path=/story/iconography--page)]([https://jupjup.site/](https://64041bd03de4f07060a931b9-emnknzovqf.chromatic.com/?path=/story/iconography--page)) [![API Docs](http://img.shields.io/badge/-API%20Docs-84ea2c?style=flat&logo=swagger&logoColor=white&link=)]()
+[![서비스_이용_가이드](http://img.shields.io/badge/-서비스_이용_가이드-81B441?style=flat&logo=Pinboard&logoColor=white&link=https://github.com/pickly-team/pickly-frontend/wiki/%ED%94%BC%ED%81%B4%EB%A6%AC-%EC%82%AC%EC%9A%A9-%EA%B0%80%EC%9D%B4%EB%93%9C)]([https://github.com/pickly-team/pickly-backend/wiki](https://github.com/pickly-team/pickly-frontend/wiki/%ED%94%BC%ED%81%B4%EB%A6%AC-%EC%82%AC%EC%9A%A9-%EA%B0%80%EC%9D%B4%EB%93%9C)) [![Storybook](http://img.shields.io/badge/Storybook-ff4685?style=flat&logo=Storybook&logoColor=white&link=https://64041bd03de4f07060a931b9-emnknzovqf.chromatic.com/?path=/story/iconography--page)]([https://jupjup.site/](https://64041bd03de4f07060a931b9-emnknzovqf.chromatic.com/?path=/story/iconography--page)) [![API Docs](http://img.shields.io/badge/-API%20Docs-84ea2c?style=flat&logo=swagger&logoColor=white&link=)]()
 
 <br>
 
@@ -24,6 +24,18 @@
 | :------------: | :------------: | :------------: | :------------: | :------------: | :------------: | :------------: |
 | <a href="https://github.com/EunjiShin"> <img src="https://avatars.githubusercontent.com/EunjiShin" width=100px alt="_"/> </a> | <a href="https://github.com/ww8007"> <img src="https://avatars.githubusercontent.com/ww8007" width=100px alt="_"/> </a> | <a href="https://github.com/JoeCP17"> <img src="https://avatars.githubusercontent.com/JoeCP17" width=100px alt="_"/> </a> | <a href="https://github.com/litsynp"> <img src="https://avatars.githubusercontent.com/litsynp" width=100px alt="_"/> </a> | <a href="https://github.com/aeong98"> <img src="https://avatars.githubusercontent.com/aeong98" width=100px alt="_"/> </a> | <a href="https://github.com/SoobinJung1013"> <img src="https://avatars.githubusercontent.com/SoobinJung1013" width=100px alt="_"/> </a> | <a href="https://github.com/JerryK026"> <img src="https://avatars.githubusercontent.com/JerryK026" width=100px alt="_"/> </a> |
 | BE | BE, FE | BE, FE | BE, FE | BE, FE | BE, FE | BE |
+
+</div>
+
+## 🚀 주요 기능
+
+<div align=center>
+
+</div>
+
+## 🗺️ 시스템 아키텍처
+
+<div align=center>
 
 </div>
 
