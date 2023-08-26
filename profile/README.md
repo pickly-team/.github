@@ -52,6 +52,8 @@
 <div style="display: inline;">
 <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">
 <img src="https://img.shields.io/badge/Springboot-6DB33F?style=for-the-badge&logo=Springboot&logoColor=white">
+<img src="https://img.shields.io/badge/Spring JPA-000000?style=for-the-badge&logo=cachet&logoColor=white">
+<img src="https://img.shields.io/badge/queryDSL-000000?style=for-the-badge&logo=cachet&logoColor=white">
 <img src="https://img.shields.io/badge/gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white">
 <img src="https://img.shields.io/badge/spock-4479A1?style=for-the-badge&logo=codedeploy&logoColor=white">
 <img src="https://img.shields.io/badge/apachegroovy-4298B8?style=for-the-badge&logo=apachegroovy&logoColor=white">
@@ -60,9 +62,9 @@
 
 <div style="display: inline;">
 <img src="https://img.shields.io/badge/postgresql-4169E1?style=for-the-badge&logo=postgresql&logoColor=white">
-<img src="https://img.shields.io/badge/queryDSL-000000?style=for-the-badge&logo=cachet&logoColor=white">
 <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
-<img src="https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white"> 
+<img src="https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white">
+<img src="https://img.shields.io/badge/firebase cloud messaging-FFCA28?style=for-the-badge&logo=firebase&logoColor=white"> 
 <img src="https://img.shields.io/badge/jsoup-8BC0D0?style=for-the-badge&logo=pinboard&logoColor=white">
 </div>
 
