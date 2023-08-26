@@ -30,7 +30,7 @@
 ## 🗺️ 시스템 아키텍처
 
 <div align=center>
-<img src="https://github.com/pickly-team/.github/assets/54137044/009efb13-71d8-445b-8ea1-0a598b51740d" />
+<img src="https://github.com/pickly-team/.github/assets/54137044/30b4d5da-a9de-4da0-a70f-32ecce21e8e2" />
 </div>
 
 ## 🌱 프론트엔드 기술 스택
