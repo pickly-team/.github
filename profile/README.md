@@ -27,12 +27,6 @@
 
 </div>
 
-## 🚀 주요 기능
-
-<div align=center>
-
-</div>
-
 ## 🗺️ 시스템 아키텍처
 
 <div align=center>
