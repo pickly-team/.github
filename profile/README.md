@@ -20,22 +20,11 @@
 
 <div align=center>
 
-|      신은지      |      장동현      |      김의빈      |      이승준      |      김서연      |      정수빈      |      김서경      |
-| :------------: | :------------: | :------------: | :------------: | :------------: | :------------: | :------------: |
-| <a href="https://github.com/EunjiShin"> <img src="https://avatars.githubusercontent.com/EunjiShin" width=100px alt="_"/> </a> | <a href="https://github.com/ww8007"> <img src="https://avatars.githubusercontent.com/ww8007" width=100px alt="_"/> </a> | <a href="https://github.com/JoeCP17"> <img src="https://avatars.githubusercontent.com/JoeCP17" width=100px alt="_"/> </a> | <a href="https://github.com/litsynp"> <img src="https://avatars.githubusercontent.com/litsynp" width=100px alt="_"/> </a> | <a href="https://github.com/aeong98"> <img src="https://avatars.githubusercontent.com/aeong98" width=100px alt="_"/> </a> | <a href="https://github.com/SoobinJung1013"> <img src="https://avatars.githubusercontent.com/SoobinJung1013" width=100px alt="_"/> </a> | <a href="https://github.com/JerryK026"> <img src="https://avatars.githubusercontent.com/JerryK026" width=100px alt="_"/> </a> |
-| BE, FE | BE, FE | BE, FE | BE, FE | BE, FE | BE, FE | BE |
+|      신은지      |      장동현      |      김의빈      |      이승준      |      김서연      |      정수빈      |      김서경      |      정성준      |
+| :------------: | :------------: | :------------: | :------------: | :------------: | :------------: | :------------: | :------------: |
+| <a href="https://github.com/EunjiShin"> <img src="https://avatars.githubusercontent.com/EunjiShin" width=100px alt="_"/> </a> | <a href="https://github.com/ww8007"> <img src="https://avatars.githubusercontent.com/ww8007" width=100px alt="_"/> </a> | <a href="https://github.com/JoeCP17"> <img src="https://avatars.githubusercontent.com/JoeCP17" width=100px alt="_"/> </a> | <a href="https://github.com/litsynp"> <img src="https://avatars.githubusercontent.com/litsynp" width=100px alt="_"/> </a> | <a href="https://github.com/aeong98"> <img src="https://avatars.githubusercontent.com/aeong98" width=100px alt="_"/> </a> | <a href="https://github.com/SoobinJung1013"> <img src="https://avatars.githubusercontent.com/SoobinJung1013" width=100px alt="_"/> </a> | <a href="https://github.com/JerryK026"> <img src="https://avatars.githubusercontent.com/JerryK026" width=100px alt="_"/> </a> | <a href="https://github.com/ericsj1998"> <img src="https://avatars.githubusercontent.com/ericsj1998" width=100px alt="_"/> </a> |
+| BE, FE | BE, FE | BE, FE | BE, FE | BE, FE | BE, FE | BE | Icon Design |
 </div>
-
-## 🖼 아이콘 디자인 
-
-<div align=center>
-
-
-|      정성준      |
-| :------------: |
-| <a href="https://github.com/ericsj1998"> <img src="https://avatars.githubusercontent.com/ericsj1998" width=100px alt="_"/> </a> |
-</div>
-
 
 ## 🗺️ 시스템 아키텍처
 
